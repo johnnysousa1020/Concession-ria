@@ -53,3 +53,16 @@ habilidades em **Front-End**, incluindo:
 
 As imagens utilizadas neste projetos foram geradas por
 inteligência artificial para fins educacionais e de estudo.
+
+---
+
+## 🌐 Projeto publicado em:
+
+https://johnnysousa1020.github.io/Concession-ria/
+
+---
+
+## Autor
+
+Desenvolvido por **Johnny Sousa**
+Projeto de estudo em Front End.
